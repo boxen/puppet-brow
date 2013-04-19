@@ -1,5 +1,5 @@
 # Public: Install Brow
-#         Exposes Bookmarks from Crome and Firefox to Spotlight
+#         Exposes Bookmarks from Chrome and Firefox to Spotlight
 #
 # Usage:
 #
