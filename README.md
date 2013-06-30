@@ -1,6 +1,6 @@
 # Brow
 [![Build
-Status](https://travis-ci.org/polymetis/puppet-brow.png?branch=master)](https://travis-ci.org/polymetis/puppet-brow)
+Status](https://travis-ci.org/boxen/puppet-brow.png?branch=master)](https://travis-ci.org/boxen/puppet-brow)
 
 Installs [Brow](http://www.timschroeder.net/brow/) which exposes Bookmarks from Chrome and Firefox to Spotlight
 
